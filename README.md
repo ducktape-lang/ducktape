@@ -1,2 +1,2 @@
 # ducktape
-Duct Tape is a dynamic duck typing embeddable scripting language.
+Duct Tape is a dynamic duck typed embeddable scripting language.
